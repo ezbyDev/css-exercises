@@ -1,0 +1,15 @@
+.odd {
+  background-color: rgb(238, 150, 150);
+  font-family:Verdana, sans-serif, sans-serif;
+}
+
+#n2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#n1 {
+  background-color: rgb(145, 206, 145);
+  font-size: 24px;
+  font-weight: bold;
+}
